@@ -1,0 +1,13 @@
+characters:2230247
+words:231145
+lines:15744
+<that>:4817
+<says>:4474
+<have>:2129
+<with>:2100
+<from>:2020
+<they>:1611
+<more>:1274
+<their>:1216
+<which>:1192
+<this>:1140
