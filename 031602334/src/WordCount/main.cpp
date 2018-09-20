@@ -42,12 +42,12 @@ int main(int argc, const char * argv[]) {
 		WordsSort(Num);
 		ofstream out(OutName);
 		if (!out) throw string("输出文件无法打开\n");
-		out << "characters:" << CharNum << endl;
-		out << "words:" << WordsNum << endl;
-		out << "lines:" << LinesNum << endl;
+		out << "characters: " << CharNum << endl;
+		out << "words: " << WordsNum << endl;
+		out << "lines: " << LinesNum << endl;
 		for (vpsi::iterator iter = WordsVec.begin(); iter != (WordsVec.begin() + Num); ++iter)
 		{
-			out << "<" << iter->first << ">:" << iter->second << endl;
+			out << "<" << iter->first << ">: " << iter->second << endl;
 		}
 		out.close();
 	}
