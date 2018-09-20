@@ -1,6 +1,1 @@
-﻿  stdafx.cpp
-g:\personproject-c2\031602605+陈浩\src\wordcount\wordcount\stdafx.cpp(72): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
-g:\personproject-c2\031602605+陈浩\src\wordcount\wordcount\stdafx.cpp(86): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
-g:\personproject-c2\031602605+陈浩\src\wordcount\wordcount\stdafx.cpp(122): warning C4018: “<”: 有符号/无符号不匹配
-  WordCount.cpp
-  WordCount.vcxproj -> G:\PersonProject-C2\031602605+陈浩\src\WordCount\Debug\WordCount.exe
+﻿  WordCount.vcxproj -> F:\PersonProject-C2\PersonProject-C2\031602605+陈浩\src\WordCount\Debug\WordCount.exe
