@@ -29,7 +29,7 @@ int main(int argc, char * argv[])//
 	}
 	else
 	{
-		path = "test2.txt";
+		path = "test.txt";
 		//path = "input6.txt";
 	}
 	if ((fp = fopen(path, "r")) == NULL)//打开操作不成功

@@ -215,7 +215,8 @@ int tjb::write()
 	wt2 << "lines: " << lines << endl;
 	for (int i = 0;i < words && i < 10;i++)
 	{
-		//wt2 << "<" << v[i].first << ">: " << v[i].second << endl;
+		cout << "<" << v[i].first << ">£º" << v[i].second << endl;
+		wt2 << "<" << v[i].first << ">: " << v[i].second << endl;
 	}
 	wt2.close();
 	return 0;
