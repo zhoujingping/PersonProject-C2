@@ -116,11 +116,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Tool.cpp" />
-    <ClCompile Include="源.cpp" />
+    <ClCompile Include="WordCount.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Tool.h" />
-    <ClInclude Include="源.h" />
+    <ClInclude Include="WordCount.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -9,7 +9,7 @@
 #include<io.h>
 #include<unordered_map>
 #include<iterator>
-#include "Դ.h"
+#include "WordCount.h"
 #include"Tool.h"
 using namespace std;
 
