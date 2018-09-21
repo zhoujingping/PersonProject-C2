@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  wordcounts.cpp
+e:\软件工程\personproject-c2\031602308\wordcounts\wordcounts\wordcounts.cpp(20): warning C4101: “line”: 未引用的局部变量
+e:\软件工程\personproject-c2\031602308\wordcounts\wordcounts\wordcounts.cpp(67): warning C4101: “number”: 未引用的局部变量
+e:\软件工程\personproject-c2\031602308\wordcounts\wordcounts\wordcounts.cpp(68): warning C4101: “c”: 未引用的局部变量
+  wordcounts.vcxproj -> E:\软件工程\PersonProject-C2\031602308\wordcounts\Debug\wordcounts.exe
