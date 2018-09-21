@@ -190,6 +190,15 @@ int tjb::countdc()
 			}
 		}
 	}
+	if (t == 1)
+	{
+		wcount++;
+		map<string, int>::iterator it = mm.find(s);
+		if (it == mm.end())
+			mm.insert(map<string, int>::value_type(s, 1));
+		else
+			mm[s]++;
+	}
 	words = wcount;
 	//plsort(word, wordc, k);
 	//zdsort(word, wordc, k);
@@ -213,7 +222,7 @@ int tjb::write()
 	wt2 << "characters: " << characters << endl;
 	wt2 << "words: " << words << endl;
 	wt2 << "lines: " << lines << endl;
-	for (int i = 0;i < words && i < 10;i++)
+	for (int i = 0;i < v.size() && i < 10;i++)
 	{
 		cout << "<" << v[i].first << ">£º" << v[i].second << endl;
 		wt2 << "<" << v[i].first << ">: " << v[i].second << endl;

@@ -29,8 +29,8 @@ int main(int argc, char * argv[])//
 	}
 	else
 	{
-		path = "test.txt";
-		//path = "input6.txt";
+		//path = "test.txt";
+		path = "input6.txt";
 	}
 	if ((fp = fopen(path, "r")) == NULL)//打开操作不成功
 	{
@@ -40,7 +40,6 @@ int main(int argc, char * argv[])//
 	else
 	{
 		tj.readwj(fp);
-		words = tj.countdc();
 		//统计字符
 		characters = tj.countzf();
 		//统计行数
