@@ -1,5 +1,0 @@
-characters: 35
-words: 2
-lines: 5
-<abcd123>: 1
-<abcdefg>: 1

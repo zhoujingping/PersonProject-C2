@@ -1,6 +1,0 @@
-characters: 77
-words: 9
-lines: 11
-<abcd>: 2
-<abcd123>: 6
-<abcdefg>: 1
