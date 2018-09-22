@@ -1,0 +1,13 @@
+characters: 2230216
+words: 340700
+lines: 16510
+<a4>: 1
+<aa>: 1
+<aad>: 1
+<aadtostudy>: 1
+<aafarensis>: 1
+<aandthat>: 1
+<aanguilla>: 1
+<aao>: 1
+<aaohasused>: 1
+<aaron>: 1
